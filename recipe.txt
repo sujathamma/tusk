@@ -3,4 +3,7 @@ pasta
 maggi
 chicken
 
+beans
+carrot
+
 thanks
